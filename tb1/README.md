@@ -1,1 +1,1 @@
-
+The testbench directory contains the VHDL simulation files used to verify the design logic. These files provide the necessary clock signals and stimulus inputs, such as start pulses and mode selections, to observe the state transitions from Idle through to Done. This ensures the controller behaves correctly under various conditions before it is deployed to physical hardware.

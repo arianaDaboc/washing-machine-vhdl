@@ -1,1 +1,1 @@
-
+The source directory contains the core RTL design files for the washing machine controller. This includes the VHDL architecture that defines the Finite State Machine logic and the output assignments for the water inlet, drum motor, and drain pump. These files represent the synthesizable hardware description ready for implementation on the FPGA platform.
